@@ -1,0 +1,10 @@
+D:\Alex faculta\ip\Keylogger\Keylogger\bin\Debug\Keylogger.exe.config
+D:\Alex faculta\ip\Keylogger\Keylogger\bin\Debug\Keylogger.exe
+D:\Alex faculta\ip\Keylogger\Keylogger\bin\Debug\Keylogger.pdb
+D:\Alex faculta\ip\Keylogger\Keylogger\obj\Debug\Keylogger.csproj.AssemblyReference.cache
+D:\Alex faculta\ip\Keylogger\Keylogger\obj\Debug\Keylogger.Form1.resources
+D:\Alex faculta\ip\Keylogger\Keylogger\obj\Debug\Keylogger.Properties.Resources.resources
+D:\Alex faculta\ip\Keylogger\Keylogger\obj\Debug\Keylogger.csproj.GenerateResource.cache
+D:\Alex faculta\ip\Keylogger\Keylogger\obj\Debug\Keylogger.csproj.CoreCompileInputs.cache
+D:\Alex faculta\ip\Keylogger\Keylogger\obj\Debug\Keylogger.exe
+D:\Alex faculta\ip\Keylogger\Keylogger\obj\Debug\Keylogger.pdb

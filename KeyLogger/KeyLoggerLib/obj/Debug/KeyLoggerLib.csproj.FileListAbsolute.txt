@@ -4,3 +4,9 @@ C:\Users\raluc\source\repos\KeyLogger\KeyLoggerLib\bin\Debug\KeyLoggerLib.dll
 C:\Users\raluc\source\repos\KeyLogger\KeyLoggerLib\bin\Debug\KeyLoggerLib.pdb
 C:\Users\raluc\source\repos\KeyLogger\KeyLoggerLib\obj\Debug\KeyLoggerLib.dll
 C:\Users\raluc\source\repos\KeyLogger\KeyLoggerLib\obj\Debug\KeyLoggerLib.pdb
+D:\Alex faculta\ip\Keylogger-IP-project\KeyLogger\KeyLoggerLib\obj\Debug\KeyLoggerLib.csproj.AssemblyReference.cache
+D:\Alex faculta\ip\Keylogger-IP-project\KeyLogger\KeyLoggerLib\obj\Debug\KeyLoggerLib.csproj.CoreCompileInputs.cache
+D:\Alex faculta\ip\Keylogger-IP-project\KeyLogger\KeyLoggerLib\obj\Debug\KeyLoggerLib.dll
+D:\Alex faculta\ip\Keylogger-IP-project\KeyLogger\KeyLoggerLib\obj\Debug\KeyLoggerLib.pdb
+D:\Alex faculta\ip\Keylogger-IP-project\KeyLogger\KeyLoggerLib\bin\Debug\KeyLoggerLib.dll
+D:\Alex faculta\ip\Keylogger-IP-project\KeyLogger\KeyLoggerLib\bin\Debug\KeyLoggerLib.pdb

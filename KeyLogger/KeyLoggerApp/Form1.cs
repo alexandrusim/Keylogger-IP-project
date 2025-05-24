@@ -35,7 +35,7 @@ namespace KeyloggerApp
         private IDisposable _unsubscriber;
         private bool _isMonitoring = false;
         /// <summary>
-        /// Fereastra principala a aplicației Keylogger - gestioneaza interactiunile UI si observa evenimentele tastelor.
+        /// Fereastra principala a aplicatiei Keylogger
         /// </summary>
         public Form1()
         {
@@ -65,7 +65,7 @@ namespace KeyloggerApp
         /// <summary>
         /// Gestioneaza noile evenimente de tastare primite de la keylogger
         /// </summary>
-        /// <param name="value">Datele evenimentului de tastare.</param>
+        /// <param name="value">Datele evenimentului de tastare</param>
         public void OnNext(KeyEvent value)
         {
             try
@@ -89,7 +89,7 @@ namespace KeyloggerApp
         /// <summary>
         /// Gestioneaza erorile aparute in keylogger
         /// </summary>
-        /// <param name="error">Exceptia aparuta.</param>
+        /// <param name="error">Exceptia aparuta</param>
         public void OnError(Exception error)
         {
             MessageBox.Show($"Keylogger error: {error.Message}", "Error",
@@ -103,7 +103,7 @@ namespace KeyloggerApp
             textLog.AppendText("Monitoring completed.\n");
         }
         /// <summary>
-        /// Porneste monitorizarea tastelor.
+        /// Porneste monitorizarea tastelor
         /// </summary>
         private void startButton_Click(object sender, EventArgs e)
         {
@@ -139,21 +139,21 @@ namespace KeyloggerApp
         }
 
         /// <summary>
-        /// Inchide aplicatia.
+        /// Inchide aplicatia
         /// </summary>
         private void button1_Click(object sender, EventArgs e)
         {
             Environment.Exit(0);
         }
         /// <summary>
-        /// Afiseaza informatii despre aplicatie.
+        /// Afiseaza informatii despre aplicatie
         /// </summary>
         private void button3_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Implementare keylogger");
         }
         /// <summary>
-        /// Deschide documentatia de ajutor.
+        /// Deschide documentatia de ajutor
         /// </summary>
         private void button2_Click(object sender, EventArgs e)
         {

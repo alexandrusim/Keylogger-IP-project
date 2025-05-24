@@ -10,7 +10,7 @@ namespace KeyLoggerApp
     static class Program
     {
         /// <summary>
-        /// The main entry point for the application.
+        /// Punctul de intrare principal pentru aplicatie
         /// </summary>
         [STAThread]
         static void Main()

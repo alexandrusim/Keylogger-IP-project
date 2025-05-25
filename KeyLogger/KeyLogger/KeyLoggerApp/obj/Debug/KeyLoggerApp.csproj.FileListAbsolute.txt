@@ -1,0 +1,56 @@
+C:\Users\raluc\source\repos\KeyLogger\KeyLoggerApp\obj\Debug\KeyLoggerApp.csproj.AssemblyReference.cache
+C:\Users\raluc\source\repos\KeyLogger\KeyLoggerApp\obj\Debug\KeyLoggerApp.Form1.resources
+C:\Users\raluc\source\repos\KeyLogger\KeyLoggerApp\obj\Debug\KeyLoggerApp.Properties.Resources.resources
+C:\Users\raluc\source\repos\KeyLogger\KeyLoggerApp\obj\Debug\KeyLoggerApp.csproj.GenerateResource.cache
+C:\Users\raluc\source\repos\KeyLogger\KeyLoggerApp\obj\Debug\KeyLoggerApp.csproj.CoreCompileInputs.cache
+C:\Users\raluc\source\repos\KeyLogger\KeyLoggerApp\bin\Debug\KeyLoggerApp.exe.config
+C:\Users\raluc\source\repos\KeyLogger\KeyLoggerApp\bin\Debug\KeyLoggerApp.exe
+C:\Users\raluc\source\repos\KeyLogger\KeyLoggerApp\bin\Debug\KeyLoggerApp.pdb
+C:\Users\raluc\source\repos\KeyLogger\KeyLoggerApp\bin\Debug\KeyLoggerLib.dll
+C:\Users\raluc\source\repos\KeyLogger\KeyLoggerApp\bin\Debug\KeyLoggerLib.pdb
+C:\Users\raluc\source\repos\KeyLogger\KeyLoggerApp\obj\Debug\KeyLogge.14D36D64.Up2Date
+C:\Users\raluc\source\repos\KeyLogger\KeyLoggerApp\obj\Debug\KeyLoggerApp.exe
+C:\Users\raluc\source\repos\KeyLogger\KeyLoggerApp\obj\Debug\KeyLoggerApp.pdb
+D:\IP\Keylogger-IP-project\KeyLogger\KeyLoggerApp\bin\Debug\KeyLoggerApp.exe
+D:\IP\Keylogger-IP-project\KeyLogger\KeyLoggerApp\bin\Debug\KeyLoggerLib.dll
+D:\IP\Keylogger-IP-project\KeyLogger\KeyLoggerApp\bin\Debug\KeyLoggerApp.exe.config
+D:\IP\Keylogger-IP-project\KeyLogger\KeyLoggerApp\bin\Debug\KeyLoggerApp.xml
+D:\IP\Keylogger-IP-project\KeyLogger\KeyLoggerApp\bin\Debug\KeyLoggerApp.pdb
+D:\IP\Keylogger-IP-project\KeyLogger\KeyLoggerApp\bin\Debug\KeyLoggerLib.pdb
+D:\IP\Keylogger-IP-project\KeyLogger\KeyLoggerApp\obj\Debug\KeyLoggerApp.csproj.AssemblyReference.cache
+D:\IP\Keylogger-IP-project\KeyLogger\KeyLoggerApp\obj\Debug\KeyloggerApp.Form1.resources
+D:\IP\Keylogger-IP-project\KeyLogger\KeyLoggerApp\obj\Debug\KeyLoggerApp.Properties.Resources.resources
+D:\IP\Keylogger-IP-project\KeyLogger\KeyLoggerApp\obj\Debug\KeyLoggerApp.csproj.GenerateResource.cache
+D:\IP\Keylogger-IP-project\KeyLogger\KeyLoggerApp\obj\Debug\KeyLoggerApp.csproj.CoreCompileInputs.cache
+D:\IP\Keylogger-IP-project\KeyLogger\KeyLoggerApp\obj\Debug\KeyLogge.14D36D64.Up2Date
+D:\IP\Keylogger-IP-project\KeyLogger\KeyLoggerApp\obj\Debug\KeyLoggerApp.exe
+D:\IP\Keylogger-IP-project\KeyLogger\KeyLoggerApp\obj\Debug\KeyLoggerApp.pdb
+C:\Users\rares\Downloads\KeyLogger\KeyLogger\KeyLoggerApp\bin\Debug\KeyLoggerApp.exe.config
+C:\Users\rares\Downloads\KeyLogger\KeyLogger\KeyLoggerApp\bin\Debug\KeyLoggerApp.xml
+C:\Users\rares\Downloads\KeyLogger\KeyLogger\KeyLoggerApp\bin\Debug\KeyLoggerApp.exe
+C:\Users\rares\Downloads\KeyLogger\KeyLogger\KeyLoggerApp\bin\Debug\KeyLoggerApp.pdb
+C:\Users\rares\Downloads\KeyLogger\KeyLogger\KeyLoggerApp\bin\Debug\KeyLoggerLib.dll
+C:\Users\rares\Downloads\KeyLogger\KeyLogger\KeyLoggerApp\bin\Debug\KeyLoggerLib.pdb
+C:\Users\rares\Downloads\KeyLogger\KeyLogger\KeyLoggerApp\obj\Debug\KeyLoggerApp.csproj.AssemblyReference.cache
+C:\Users\rares\Downloads\KeyLogger\KeyLogger\KeyLoggerApp\obj\Debug\KeyloggerApp.Form1.resources
+C:\Users\rares\Downloads\KeyLogger\KeyLogger\KeyLoggerApp\obj\Debug\KeyLoggerApp.Properties.Resources.resources
+C:\Users\rares\Downloads\KeyLogger\KeyLogger\KeyLoggerApp\obj\Debug\KeyLoggerApp.csproj.GenerateResource.cache
+C:\Users\rares\Downloads\KeyLogger\KeyLogger\KeyLoggerApp\obj\Debug\KeyLoggerApp.csproj.CoreCompileInputs.cache
+C:\Users\rares\Downloads\KeyLogger\KeyLogger\KeyLoggerApp\obj\Debug\KeyLogge.14D36D64.Up2Date
+C:\Users\rares\Downloads\KeyLogger\KeyLogger\KeyLoggerApp\obj\Debug\KeyLoggerApp.exe
+C:\Users\rares\Downloads\KeyLogger\KeyLogger\KeyLoggerApp\obj\Debug\KeyLoggerApp.pdb
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyLoggerApp\bin\Debug\KeyLoggerApp.exe.config
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyLoggerApp\bin\Debug\KeyLoggerApp.xml
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyLoggerApp\bin\Debug\KeyLoggerApp.exe
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyLoggerApp\bin\Debug\KeyLoggerApp.pdb
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyLoggerApp\bin\Debug\KeyLoggerLib.dll
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyLoggerApp\bin\Debug\KeyLoggerLib.pdb
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyLoggerApp\obj\Debug\KeyLoggerApp.csproj.AssemblyReference.cache
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyLoggerApp\obj\Debug\KeyLoggerApp.exe.config
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyLoggerApp\obj\Debug\KeyloggerApp.Form1.resources
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyLoggerApp\obj\Debug\KeyLoggerApp.Properties.Resources.resources
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyLoggerApp\obj\Debug\KeyLoggerApp.csproj.GenerateResource.cache
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyLoggerApp\obj\Debug\KeyLoggerApp.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyLoggerApp\obj\Debug\KeyLogge.14D36D64.Up2Date
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyLoggerApp\obj\Debug\KeyLoggerApp.exe
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyLoggerApp\obj\Debug\KeyLoggerApp.pdb

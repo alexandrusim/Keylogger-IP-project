@@ -1,0 +1,24 @@
+C:\Users\raluc\source\repos\KeyLogger\KeyLoggerLib\obj\Debug\KeyLoggerLib.csproj.AssemblyReference.cache
+C:\Users\raluc\source\repos\KeyLogger\KeyLoggerLib\obj\Debug\KeyLoggerLib.csproj.CoreCompileInputs.cache
+C:\Users\raluc\source\repos\KeyLogger\KeyLoggerLib\bin\Debug\KeyLoggerLib.dll
+C:\Users\raluc\source\repos\KeyLogger\KeyLoggerLib\bin\Debug\KeyLoggerLib.pdb
+C:\Users\raluc\source\repos\KeyLogger\KeyLoggerLib\obj\Debug\KeyLoggerLib.dll
+C:\Users\raluc\source\repos\KeyLogger\KeyLoggerLib\obj\Debug\KeyLoggerLib.pdb
+D:\IP\Keylogger-IP-project\KeyLogger\KeyLoggerLib\bin\Debug\KeyLoggerLib.dll
+D:\IP\Keylogger-IP-project\KeyLogger\KeyLoggerLib\bin\Debug\KeyLoggerLib.pdb
+D:\IP\Keylogger-IP-project\KeyLogger\KeyLoggerLib\obj\Debug\KeyLoggerLib.csproj.AssemblyReference.cache
+D:\IP\Keylogger-IP-project\KeyLogger\KeyLoggerLib\obj\Debug\KeyLoggerLib.csproj.CoreCompileInputs.cache
+D:\IP\Keylogger-IP-project\KeyLogger\KeyLoggerLib\obj\Debug\KeyLoggerLib.dll
+D:\IP\Keylogger-IP-project\KeyLogger\KeyLoggerLib\obj\Debug\KeyLoggerLib.pdb
+C:\Users\rares\Downloads\KeyLogger\KeyLogger\KeyLoggerLib\bin\Debug\KeyLoggerLib.dll
+C:\Users\rares\Downloads\KeyLogger\KeyLogger\KeyLoggerLib\bin\Debug\KeyLoggerLib.pdb
+C:\Users\rares\Downloads\KeyLogger\KeyLogger\KeyLoggerLib\obj\Debug\KeyLoggerLib.csproj.AssemblyReference.cache
+C:\Users\rares\Downloads\KeyLogger\KeyLogger\KeyLoggerLib\obj\Debug\KeyLoggerLib.csproj.CoreCompileInputs.cache
+C:\Users\rares\Downloads\KeyLogger\KeyLogger\KeyLoggerLib\obj\Debug\KeyLoggerLib.dll
+C:\Users\rares\Downloads\KeyLogger\KeyLogger\KeyLoggerLib\obj\Debug\KeyLoggerLib.pdb
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyLoggerLib\bin\Debug\KeyLoggerLib.dll
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyLoggerLib\bin\Debug\KeyLoggerLib.pdb
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyLoggerLib\obj\Debug\KeyLoggerLib.csproj.AssemblyReference.cache
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyLoggerLib\obj\Debug\KeyLoggerLib.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyLoggerLib\obj\Debug\KeyLoggerLib.dll
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyLoggerLib\obj\Debug\KeyLoggerLib.pdb

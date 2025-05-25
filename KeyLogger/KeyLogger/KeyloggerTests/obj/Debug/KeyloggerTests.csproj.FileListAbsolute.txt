@@ -1,0 +1,34 @@
+D:\IP\Keylogger-IP-project\KeyLogger\KeyloggerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\IP\Keylogger-IP-project\KeyLogger\KeyloggerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\IP\Keylogger-IP-project\KeyLogger\KeyloggerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\IP\Keylogger-IP-project\KeyLogger\KeyloggerTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\IP\Keylogger-IP-project\KeyLogger\KeyloggerTests\bin\Debug\KeyloggerTests.dll
+D:\IP\Keylogger-IP-project\KeyLogger\KeyloggerTests\bin\Debug\KeyloggerTests.pdb
+D:\IP\Keylogger-IP-project\KeyLogger\KeyloggerTests\bin\Debug\KeyLoggerLib.dll
+D:\IP\Keylogger-IP-project\KeyLogger\KeyloggerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\IP\Keylogger-IP-project\KeyLogger\KeyloggerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\IP\Keylogger-IP-project\KeyLogger\KeyloggerTests\bin\Debug\KeyLoggerLib.pdb
+D:\IP\Keylogger-IP-project\KeyLogger\KeyloggerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\IP\Keylogger-IP-project\KeyLogger\KeyloggerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\IP\Keylogger-IP-project\KeyLogger\KeyloggerTests\obj\Debug\KeyloggerTests.csproj.AssemblyReference.cache
+D:\IP\Keylogger-IP-project\KeyLogger\KeyloggerTests\obj\Debug\KeyloggerTests.csproj.CoreCompileInputs.cache
+D:\IP\Keylogger-IP-project\KeyLogger\KeyloggerTests\obj\Debug\Keylogge.951AB552.Up2Date
+D:\IP\Keylogger-IP-project\KeyLogger\KeyloggerTests\obj\Debug\KeyloggerTests.dll
+D:\IP\Keylogger-IP-project\KeyLogger\KeyloggerTests\obj\Debug\KeyloggerTests.pdb
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyloggerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyloggerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyloggerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyloggerTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyloggerTests\bin\Debug\KeyloggerTests.dll
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyloggerTests\bin\Debug\KeyloggerTests.pdb
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyloggerTests\bin\Debug\KeyLoggerLib.dll
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyloggerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyloggerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyloggerTests\bin\Debug\KeyLoggerLib.pdb
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyloggerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyloggerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyloggerTests\obj\Debug\KeyloggerTests.csproj.AssemblyReference.cache
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyloggerTests\obj\Debug\KeyloggerTests.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyloggerTests\obj\Debug\Keylogge.951AB552.Up2Date
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyloggerTests\obj\Debug\KeyloggerTests.dll
+D:\Facultate\Anul 3 Sem 2\IP\Proiect\KeyLogger\KeyLogger\KeyloggerTests\obj\Debug\KeyloggerTests.pdb

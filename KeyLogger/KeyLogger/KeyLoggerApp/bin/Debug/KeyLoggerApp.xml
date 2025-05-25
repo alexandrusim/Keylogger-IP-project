@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>KeyLoggerApp</name>
+    </assembly>
+    <members>
+        <member name="M:KeyloggerApp.Form1.#ctor">
+            <summary>
+            fereastra princ a aplicației Keylogger - gestioneaza interactiunile UI si observa evenimentele tastelor
+            </summary>
+        </member>
+        <member name="M:KeyloggerApp.Form1.InitializeKeylogger">
+            <summary>
+            init fereastra si componenta keylogger
+            </summary>
+        </member>
+        <member name="M:KeyloggerApp.Form1.OnNext(Keylogger.KeyEvent)">
+            <summary>
+            gestioneaza noile evenimente de tastare primite de la keylogger
+            </summary>
+            <param name="value">datele evenimentului de tastare</param>
+        </member>
+        <member name="M:KeyloggerApp.Form1.OnError(System.Exception)">
+            <summary>
+            gestioneaza erorile aparute in keylogger
+            </summary>
+            <param name="error">exceptia aparuta</param>
+        </member>
+        <member name="M:KeyloggerApp.Form1.OnCompleted">
+            <summary>
+            gestioneaza finalizarea monitorizarii tastelor
+            </summary>
+        </member>
+        <member name="M:KeyloggerApp.Form1.startButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            porneste monitorizarea tastelor
+            </summary>
+        </member>
+        <member name="M:KeyloggerApp.Form1.stopButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            opreste monitorizarea tastelor
+            </summary>
+        </member>
+        <member name="M:KeyloggerApp.Form1.OnFormClosing(System.Windows.Forms.FormClosingEventArgs)">
+            <summary>
+            elibereaza resursele la inchiderea ferestrei
+            </summary>
+        </member>
+        <member name="M:KeyloggerApp.Form1.button1_Click(System.Object,System.EventArgs)">
+            <summary>
+            inchide aplicatia
+            </summary>
+        </member>
+        <member name="M:KeyloggerApp.Form1.button3_Click(System.Object,System.EventArgs)">
+            <summary>
+            afiseaza informatii despre aplicatie
+            </summary>
+        </member>
+        <member name="M:KeyloggerApp.Form1.button2_Click(System.Object,System.EventArgs)">
+            <summary>
+            deschide documentatia de ajutor
+            </summary>
+        </member>
+        <member name="F:KeyloggerApp.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:KeyloggerApp.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:KeyloggerApp.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:KeyLoggerApp.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:KeyLoggerApp.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:KeyLoggerApp.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:KeyLoggerApp.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>
